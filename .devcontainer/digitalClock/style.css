@@ -1,0 +1,27 @@
+.center{
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+  }
+  #clock{
+    font-size: 29px;
+    background-color:#622569;
+    padding: 50px 50px;
+    margin-top: 20px;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+  }
+  #clock:hover{
+    background-color: gray;
+  }
+  
+  #banner{
+    color:blue;
+     font-size: 29px;
+    font-family:Copperplate, Fantasy;
+    
+  }
